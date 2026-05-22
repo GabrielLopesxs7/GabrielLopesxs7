@@ -27,11 +27,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória como desenvolvedor.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor backend em formação.
 
 Atualmente trabalho na área **administrativa/financeira**, onde tenho contato com processos reais envolvendo notas fiscais, pagamentos, fornecedores, documentos e rotinas de contas a pagar. Essa vivência me ajuda a enxergar problemas reais de negócio e pensar em soluções digitais mais úteis.
 
-Meu objetivo é evoluir como desenvolvedor júnior, criando projetos organizados, documentados e com boas práticas, começando pela base da programação e avançando gradualmente para aplicações web full stack.
+Tenho foco em JavaScript, Node.js, TypeScript, APIs REST, banco de dados e construção de sistemas com regras de negócio reais. Atualmente estou desenvolvendo projetos voltados para controle financeiro, automação de processos e organização de dados.
 
 ---
 
@@ -63,22 +63,21 @@ Atualmente estou reforçando os fundamentos antes de avançar para frameworks e 
 
 ---
 
-## 🧭 Roadmap de evolução
+## 🧭 Roadmap Backend
 
-Tecnologias que fazem parte do meu plano de estudos para evoluir como desenvolvedor full stack.
+Tecnologias e conceitos que fazem parte da minha evolução como desenvolvedor backend:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" title="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" title="Prisma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
 </p>
 
-> Estou avançando gradualmente, começando pela base em JavaScript para depois evoluir para TypeScript, Node.js, APIs, banco de dados, testes e aplicações full stack.
+> Meu foco é construir uma base sólida em JavaScript e evoluir para backend com Node.js, TypeScript, APIs REST, banco de dados, testes e segurança.
 
 ---
 
