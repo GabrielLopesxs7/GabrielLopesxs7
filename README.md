@@ -1,9 +1,60 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gabriel Lopes ======================================================================================================================================  Desenvolvedor Junior | Analista Financeiro ------------------------------------------  Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória como desenvolvedor, com foco em JavaScript, TypeScript, Node.js, APIs, bancos de dados, automações e boas práticas de desenvolvimento.  Atualmente trabalho na área administrativa/financeira, onde tenho contato com processos reais envolvendo notas fiscais, pagamentos, fornecedores, documentos e rotinas de contas a pagar. Essa experiência me ajuda a enxergar problemas do dia a dia das empresas e transformá-los em ideias de sistemas, automações e soluções digitais.  Tenho interesse em desenvolvimento web, sistemas SaaS, automação de processos, inteligência artificial aplicada a negócios e soluções financeiras. Estou sempre buscando evoluir com projetos práticos, código organizado, segurança, testes e aprendizado contínuo.  * 🌍  I'm based in Brasilia * ✉️  You can contact me at [gabrielopes0911@gmail.com](mailto:gabrielopes0911@gmail.com) * 🧠  I'm currently learning JavaScript, TypeScript, Node.js, APIs, bancos de dados, testes automatizados, segurança em aplicações e boas práticas de desenvolvimento. Também venho estudando arquitetura de software, automação de processos, sistemas SaaS e inteligência artificial aplicada a negócios.
+<h1 align="center">
+  Olá, eu sou Gabriel Lopes 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
+</h1>
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/bielz0911" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+</p>
 
-<b>My GitHub Stats</b>
+<p align="center">
+  Atualmente fortalecendo minha base em JavaScript, lógica de programação, Git/GitHub e fundamentos de desenvolvimento web.
+</p>
 
-<a href="http://www.github.com/bielz0911"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bielz0911&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória como desenvolvedor.
+
+Atualmente trabalho na área **administrativa/financeira**, onde tenho contato com processos reais envolvendo notas fiscais, pagamentos, fornecedores, documentos e rotinas de contas a pagar. Essa vivência me ajuda a enxergar problemas reais de negócio e pensar em soluções digitais mais úteis.
+
+Meu objetivo é evoluir como desenvolvedor júnior, criando projetos organizados, documentados e com boas práticas, começando pela base da programação e avançando gradualmente para aplicações web full stack.
+
+---
+
+## 📚 Estudando atualmente
+
+- JavaScript moderno
+- Lógica de programação
+- Tipos de dados
+- Operadores
+- Estruturas de controle
+- Estruturas de dados
+- Funções
+- Git e GitHub
+- Fundamentos de desenvolvimento web
+
+---
+
+## 🧭 Próximos passos do meu roadmap
+
+- TypeScript
+- Node.js
+- APIs REST
+- Banco de dados
+- Testes automatizados
+- React
+- Backend com arquitetura profissional
+
+---
+
+## 🔮 Tecnologias que pretendo aprofundar
+
+- NestJS
+- Prisma
+- PostgreSQL
+- Next.js
+- Docker
+- Segurança em aplicações web
+- Arquitetura de software
