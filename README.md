@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lopes-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/bielz0911" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-bielz0911-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-GabrielLopesxs7-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
