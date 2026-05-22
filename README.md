@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá, eu sou Gabriel Lopes
+  Olá, meu nome é Gabriel!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
 </h1>
 
