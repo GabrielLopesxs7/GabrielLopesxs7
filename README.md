@@ -1,21 +1,21 @@
 <h1 align="center">
-  Olá, meu nome é Gabriel!
+  Olá, eu sou Gabriel Lopes
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
 </h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação</strong>
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas | Backend em formação | JavaScript • Node.js • TypeScript</strong>
 </p>
 
 <p align="center">
-  Atualmente fortalecendo minha base em JavaScript, lógica de programação, Git/GitHub e fundamentos de desenvolvimento web.
+  Desenvolvendo soluções com foco em regras de negócio, automação de processos e sistemas financeiros.
 </p>
 
 <p align="center">
   <a href="mailto:gabrielopes0911@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-gabrielopes0911%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/gabriel-lopes-15aaa3200" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-lopes-15aaa3200" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lopes-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/GabrielLopesxs7" target="_blank">
@@ -27,34 +27,37 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor backend em formação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 5º semestre, e estou direcionando minha carreira para **desenvolvimento backend**, com foco em **JavaScript, TypeScript, Node.js, APIs REST e banco de dados**.
 
-Atualmente trabalho na área **administrativa/financeira**, onde tenho contato com processos reais envolvendo notas fiscais, pagamentos, fornecedores, documentos e rotinas de contas a pagar. Essa vivência me ajuda a enxergar problemas reais de negócio e pensar em soluções digitais mais úteis.
+Hoje trabalho no setor **administrativo/financeiro de um Shopping Center**, onde tenho contato diário com rotinas de contas a pagar, fornecedores, documentos fiscais, lançamentos financeiros e processos internos que exigem organização, validação e rastreabilidade.
 
-Tenho foco em JavaScript, Node.js, TypeScript, APIs REST, banco de dados e construção de sistemas com regras de negócio reais. Atualmente estou desenvolvendo projetos voltados para controle financeiro, automação de processos e organização de dados.
+Essa vivência me ajuda a enxergar problemas reais de negócio e pensar em soluções digitais que vão além do código. Meu objetivo é evoluir como desenvolvedor criando sistemas úteis, bem estruturados e conectados com necessidades reais de empresas.
 
 ---
 
-## 📚 Estudando atualmente
+## 🚀 Meu foco atual
 
-Atualmente estou reforçando os fundamentos antes de avançar para frameworks e ferramentas mais complexas.
+Atualmente estou fortalecendo minha base técnica para evoluir com consistência no backend.
 
 - JavaScript moderno
 - Lógica de programação
-- Tipos de dados
-- Operadores
-- Estruturas de controle
-- Estruturas de dados
-- Funções
 - Git e GitHub
-- Fundamentos de desenvolvimento web
+- Fundamentos de HTML e CSS
+- TypeScript
+- Node.js
+- APIs REST
+- Banco de dados
+- Modelagem de dados
+- Boas práticas de organização de código
 
 ---
 
-## 🧠 Tecnologias em estudo
+## 🧠 Tecnologias que estou usando e estudando
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
@@ -68,78 +71,89 @@ Atualmente estou reforçando os fundamentos antes de avançar para frameworks e 
 Tecnologias e conceitos que fazem parte da minha evolução como desenvolvedor backend:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" title="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" title="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" title="Prisma ORM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
 </p>
 
-> Meu foco é construir uma base sólida em JavaScript e evoluir para backend com Node.js, TypeScript, APIs REST, banco de dados, testes e segurança.
+Meu objetivo é construir uma base sólida em desenvolvimento backend, evoluindo para:
+
+- APIs REST bem estruturadas
+- Autenticação e controle de acesso
+- Banco de dados relacional
+- Validação de dados
+- Testes automatizados
+- Segurança básica em aplicações
+- Arquitetura limpa e organizada
+- Sistemas com regras de negócio reais
 
 ---
 
 ## 🚧 Projetos em andamento
 
-| Projeto | Descrição | Status | Progresso |
-|--------|-----------|--------|-----------|
-| Estudos JavaScript | Fundamentos da linguagem e exercícios práticos | Em andamento | 🟩🟩🟩⬜⬜ 60% |
-| Controle Financeiro JS | Mini sistema financeiro para praticar lógica, arrays, objetos e funções | Início | 🟩⬜⬜⬜⬜ 20% |
-| Portfólio Pessoal | Site para apresentar meus projetos, estudos e evolução | Planejado | ⬜⬜⬜⬜⬜ 0% |
-| Maestro Financeiro | Projeto principal de automação e organização de processos financeiros | Em desenvolvimento | 🟩🟩⬜⬜⬜ 40% |
-
----
-
-## 📌 Critério de progresso
-
-| Progresso | Significado |
-|----------|-------------|
-| ⬜⬜⬜⬜⬜ 0% | Apenas ideia ou planejamento |
-| 🟩⬜⬜⬜⬜ 20% | Projeto iniciado |
-| 🟩🟩⬜⬜⬜ 40% | Estrutura criada |
-| 🟩🟩🟩⬜⬜ 60% | Funcionalidades principais em andamento |
-| 🟩🟩🟩🟩⬜ 80% | Quase pronto, faltando ajustes, testes ou documentação |
-| 🟩🟩🟩🟩🟩 100% | Finalizado, documentado e apresentável |
+| Projeto | Descrição | Tecnologias | Status |
+|--------|-----------|-------------|--------|
+| **Campanha Shopping** | Aplicação para controle de participação em campanha, com cadastro de participantes, níveis de acesso, métricas de adesão e integração com banco de dados Supabase. | JavaScript, Supabase, HTML, CSS | Em evolução |
+| **Maestro Financeiro** | Projeto principal voltado para organização de documentos financeiros, contas a pagar, fornecedores, validações e rastreabilidade de processos. | JavaScript, Node.js, TypeScript, Banco de dados | Em desenvolvimento |
+| **Estudos JavaScript** | Repositório para reforçar fundamentos da linguagem, lógica de programação, funções, arrays, objetos e exercícios práticos. | JavaScript | Em andamento |
+| **Portfólio Pessoal** | Página para apresentar minha trajetória, projetos, estudos e evolução como desenvolvedor. | HTML, CSS, JavaScript | Planejado |
 
 ---
 
 ## 🧩 Projeto principal: Maestro Financeiro
 
-O **Maestro Financeiro** é um projeto de longo prazo voltado para estudo e construção de uma solução para organização de processos financeiros.
+O **Maestro Financeiro** é um projeto de longo prazo que nasceu da minha vivência no setor financeiro.
 
-A ideia do projeto envolve:
+A ideia é desenvolver uma solução para apoiar processos como:
 
-- Recebimento e organização de documentos financeiros
+- Recebimento de documentos financeiros
+- Organização de notas fiscais e anexos
 - Controle de contas a pagar
-- Validação de informações
+- Cadastro de fornecedores
+- Validação de informações importantes
 - Fluxo de aprovação
 - Registro de auditoria
-- Organização de fornecedores
-- Rastreabilidade dos processos
+- Rastreabilidade das etapas
+- Redução de controles manuais
 
-Esse projeto nasceu da minha vivência na área administrativa/financeira e está sendo usado como base para estudar desenvolvimento de sistemas com foco em problemas reais.
+Esse projeto representa meu foco em criar soluções que resolvem problemas reais, conectando tecnologia com rotinas administrativas e financeiras.
+
+---
+
+## 📌 Diferenciais que estou desenvolvendo
+
+Além da parte técnica, busco evoluir em pontos que considero importantes para criar sistemas melhores:
+
+- Entender o problema antes de pensar no código
+- Traduzir processos manuais em soluções digitais
+- Criar sistemas com organização e rastreabilidade
+- Pensar em segurança desde o início
+- Escrever código limpo e de fácil manutenção
+- Documentar projetos com clareza
+- Construir soluções que possam ser usadas no mundo real
 
 ---
 
 ## 🎯 Objetivos como desenvolvedor
 
-- Fortalecer minha base em JavaScript
+- Consolidar minha base em JavaScript
 - Evoluir para TypeScript com segurança
 - Aprender backend com Node.js
-- Entender APIs REST
+- Construir APIs REST profissionais
 - Estudar banco de dados e modelagem
-- Criar projetos documentados no GitHub
+- Criar projetos reais e documentados
 - Desenvolver boas práticas desde o início
-- Construir um portfólio profissional
-- Evoluir como desenvolvedor full stack júnior
+- Conquistar uma oportunidade como estagiário, trainee ou desenvolvedor júnior
+- Evoluir como desenvolvedor full stack com foco forte em backend
 
 ---
 
-## 📖 Organização dos meus estudos
+## 📖 Trilha de estudos
 
-Estou seguindo uma trilha gradual:
+Estou seguindo uma trilha gradual e prática:
 
 ```txt
 1. JavaScript moderno
@@ -149,7 +163,9 @@ Estou seguindo uma trilha gradual:
 5. Node.js
 6. APIs REST
 7. Banco de dados
-8. Testes automatizados
-9. React / Next.js
-10. NestJS
-11. Segurança e arquitetura
+8. Autenticação e autorização
+9. Testes automatizados
+10. React / Next.js
+11. NestJS
+12. Docker
+13. Segurança e arquitetura
