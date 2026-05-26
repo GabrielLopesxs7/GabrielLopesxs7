@@ -1,11 +1,8 @@
-<h2>
-  <img src="https://i.redd.it/d19cl2tyxq141.png" width="32" />
-  Gabriel Lopes
-</h2>
+<h2>Gabriel Lopes</h2>
 
 <img src="https://img.shields.io/badge/Estudante%20de%20ADS-111827?style=flat-square&logo=bookstack&logoColor=white" />
 
-<br><br>
+<br>
 
 Me chamo **Gabriel Lopes**, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou direcionando minha carreira para a área de tecnologia, com foco em **desenvolvimento backend**.
 
@@ -13,34 +10,29 @@ Atualmente estudo **JavaScript, Node.js, TypeScript, Git/GitHub e banco de dados
 
 ---
 
-<table>
-  <tr>
-    <td width="220" align="center">
-      <img src="https://i.redd.it/d19cl2tyxq141.png" width="150" alt="Yoda" />
-    </td>
-    <td width="500" valign="middle">
+<img align="left" src="./assets/ordemjedi.png" width="240" alt="Ordem Jedi" />
 
 ### 🛡️ Linguagens e Tecnologias
 
+<br>
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub" />
 </p>
 
-  </td>
-  </tr>
-</table>
+<br clear="left">
 
 ---
 
