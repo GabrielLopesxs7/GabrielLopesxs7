@@ -1,42 +1,41 @@
-<h1 align="center">Gabriel Lopes</h1>
+<h2>
+  <img src="https://i.redd.it/d19cl2tyxq141.png" width="32" />
+  Gabriel Lopes
+</h2>
 
-<p align="center">
-  <strong>Estudante de ADS • Foco em Backend</strong>
-</p>
+<img src="https://img.shields.io/badge/Estudante%20de%20ADS-111827?style=flat-square&logo=bookstack&logoColor=white" />
 
-<p align="center">
-  JavaScript • Node.js • TypeScript
-</p>
+<br><br>
 
----
+Me chamo **Gabriel Lopes**, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou direcionando minha carreira para a área de tecnologia, com foco em **desenvolvimento backend**.
 
-## Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento backend**.
-
-Atualmente estudo **JavaScript, Node.js, TypeScript, Git/GitHub e banco de dados**, buscando evoluir com projetos práticos e visão de problemas reais.
-
-Também tenho vivência na área **administrativa/financeira**, o que fortalece minha visão sobre regras de negócio, organização de processos e construção de sistemas úteis.
+Atualmente estudo **JavaScript, Node.js, TypeScript, Git/GitHub e banco de dados**. Tenho interesse em construir soluções úteis, bem organizadas e conectadas com problemas reais de negócio.
 
 ---
 
 <table>
   <tr>
     <td width="220" align="center">
-      <img src="https://i.redd.it/d19cl2tyxq141.png" width="170" alt="Yoda" />
+      <img src="https://i.redd.it/d19cl2tyxq141.png" width="150" alt="Yoda" />
     </td>
-    <td valign="middle">
+    <td width="500" valign="middle">
 
-### Tecnologias
+### 🛡️ Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub" />
 </p>
 
   </td>
@@ -45,18 +44,18 @@ Também tenho vivência na área **administrativa/financeira**, o que fortalece 
 
 ---
 
-## Contato
+### 📫 Contato
 
-<p align="left">
+<p>
   <a href="mailto:gabrielopes0911@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-gabrielopes0911%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-gabrielopes0911%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/gabriel-lopes-15aaa3200" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lopes-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lopes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/GabrielLopesxs7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GabrielLopesxs7-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-GabrielLopesxs7-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
