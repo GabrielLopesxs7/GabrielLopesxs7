@@ -1,4 +1,7 @@
-<h2>Gabriel Lopes</h2>
+<h2>
+  <img src="./assets/stormtroopericon.png" width="28" alt="Stormtrooper Icon" />
+  Gabriel Lopes
+</h2>
 
 <img src="https://img.shields.io/badge/Estudante%20de%20ADS-111827?style=flat-square&logo=bookstack&logoColor=white" />
 
